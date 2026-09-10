@@ -1,35 +1,60 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png" width="100%" alt="Banner">
-</div>
+# Hey, I'm Malak Abdelwahed 👋
 
-<h3>ABOUT ME</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-malak--abdelwahed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malak-abdelwahed-079225389/)](https://www.linkedin.com/in/malak-abdelwahed-079225389/) [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/) [![LinkedIn Direct](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/malak-abdelwahed-079225389/)](https://www.linkedin.com/in/malak-abdelwahed-079225389/)
 
-I'm Malak Abdelwahed, an AI & Machine Learning Engineer with a background in Computer Science and Artificial Intelligence. \
-I specialize in developing machine learning models, computer vision solutions, and data-driven systems. I prioritize clean code, performance, and continuous learning, with active involvement in community mentorship and open-source tech initiatives.
+## 🤖 AI & Machine Learning
 
+AI & Machine Learning Engineer based in Egypt with a focus on Computer Vision, Deep Learning, and data analysis. I specialize in developing practical machine learning models and computer vision pipelines—ranging from real-time hand-gesture controls to handwritten character recognition systems.
 
+I build end-to-end AI solutions — from raw data preprocessing and exploratory analysis to model training, evaluation, and interactive computer vision applications.
 
-<h3>EXPERIENCE & SKILLS</h3>
+---
 
-I have experience working on machine learning assignments, AI projects, and freelance AI solutions.
+## 🛠️ Skills & Technologies
 
-I've spent most of my time working with:
+**AI, ML & Computer Vision:** TensorFlow, OpenCV, MediaPipe, Convolutional Neural Networks (CNNs), Machine Learning, Computer Vision, Deep Learning
 
-- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-TensorFlow -- OpenCV -- MediaPipe -- Pandas -- Matplotlib-grey" alt="TensorFlow, OpenCV, MediaPipe, Pandas, Matplotlib">
-- <img src="https://img.shields.io/badge/AI_%26_ML-white?labelColor=black" alt="AI & ML"> <img src="https://img.shields.io/badge/-Machine Learning -- Computer Vision -- Deep Learning -- Data Analysis-grey" alt="Machine Learning, Computer Vision, Deep Learning, Data Analysis">
+**Data Analysis & Scientific Computing:** Pandas, Matplotlib, Data Preprocessing & Analysis
 
-I also have experience with:
+**Programming Languages:** Python, C++, SQL, Lisp, Prolog
 
-- <img src="https://img.shields.io/badge/Languages-white?labelColor=black" alt="Languages"> <img src="https://img.shields.io/badge/-C++ -- SQL -- Lisp -- Prolog-grey" alt="C++, SQL, Lisp, Prolog">
-- <img src="https://img.shields.io/badge/Tools_%26_Environments-white?labelColor=black" alt="Tools & Environments"> <img src="https://img.shields.io/badge/-VS Code -- Google Colab -- Git -- GitHub -- MS SQL Server-grey" alt="VS Code, Google Colab, Git, GitHub, MS SQL Server">
-- <img src="https://img.shields.io/badge/Community-white?labelColor=black" alt="Community"> <img src="https://img.shields.io/badge/-Hult Prize Mentor %26 Organizer-grey" alt="Hult Prize Mentor & Organizer">
+**Tools & Development Environments:** Visual Studio Code, Google Colab, Jupyter Notebooks, Git, GitHub, MS SQL Server
 
-<h3>MY FRIEND</h3>
-has a message for you...
+---
 
-<br>
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
-</div>
-<br>
+## 📚 Education
+
+- **Bachelor’s Student in Computer Science and Artificial Intelligence** (Level 3)
+  - Specializing in Artificial Intelligence, machine learning concepts, algorithms, and software design.
+
+---
+
+## 📜 Certifications
+
+- **IBM SkillsBuild:** Artificial Intelligence Course Completion Certificate
+- **1 Million Prompters:** AI Training Program Certificate of Achievement
+- **Cybersecurity Awareness Certificate**
+- **National Telecommunication Institute (NTI):** Artificial Intelligence Specialization Training
+- **Edraak:** Microsoft SQL Server Introductory Course & ICDL Specialization
+
+---
+
+## 🚀 Projects
+
+- **Gesture-Based Audio Control System:** Real-time computer vision application built with Python, OpenCV, and MediaPipe to detect hand gestures and dynamically control system audio volume.
+- **Handwritten Character Recognition:** Machine learning and deep learning classification model designed to detect and transcribe handwritten characters accurately.
+- **AI 203 Data Analysis Project:** Comprehensive data manipulation and exploratory data analysis pipeline utilizing Python and Pandas in Google Colab.
+
+---
+
+## 🔗 LinkedIn / GitHub
+
+- **LinkedIn:** [linkedin.com/in/malak-abdelwahed-079225389](https://www.linkedin.com/in/malak-abdelwahed-079225389/)
+- **GitHub:** [github.com](https://github.com/)
+
+---
+
+## 📧 Contact
+
+- **LinkedIn:** Send a message on [LinkedIn](https://www.linkedin.com/in/malak-abdelwahed-079225389/)
+- **Freelance Profile:** Available for AI & Machine Learning services on [Mostaql (مستقل)](https://mostaql.com/)
